@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveQA2017-Medical-Test-Set-Full>
+	<NLM-QUESTION qid="TQ70">
+		<Original-Question qfile="12190.txt">
+			<SUBJECT>CAUSE OF A COLD	</SUBJECT>
+			<MESSAGE>i UNDERSTAND CONTAGION AND TRANSFERRENCE OF COLD &quot;GERMS&quot; WHY ARE SOME PEOPLE AFFECTED AND OTHERS NOT?
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the most common ways of spreading cold germs?</NIST-PARAPHRASE>
+		<NLM-Summary>What makes people succeptible to common cold?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">COLD</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">SUSCEPTIBILITY</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ70A1">
+				<ANSWER> Common cold
+					Prevention
+					To lower your chances of getting sick:
+
+					Always wash your hands. Children and adults should wash hands after nose-wiping, diapering, and using the bathroom, and before eating and preparing food.
+					Disinfect your environment. Clean commonly touched surfaces (such as sink handles, door knobs, and sleeping mats) with an EPA-approved disinfectant.
+					Choose smaller daycare classes for your children.
+					Use instant hand sanitizers to stop the spread of germs.
+					Use paper towels instead of sharing cloth towels.
+					The immune system helps your body fight off infection. Here are ways to support the immune system:
+
+					Avoid secondhand smoke. It is responsible for many health problems, including colds.
+					DO NOT use antibiotics if they are not needed.
+					Breastfeed infants if possible. Breast milk is known to protect against respiratory tract infections in children, even years after you stop breastfeeding.
+					Drink plenty of fluids to help your immune system work properly.
+					Eat yogurt that contains "active cultures." These may help prevent colds. Probiotics may help prevent colds in children.
+					Get enough sleep.
+				</ANSWER>
+				<AnswerURL> https://medlineplus.gov/ency/article/000678.htm </AnswerURL>
+				<COMMENT> considered as prevention question. It can also be seen as a question about risk factors / susceptibility, which are listed as things to avoid, such as smoking </COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ70A2">
+				<ANSWER>
+					Why Some People Are More Likely to Catch a Cold
+					The answer may be in your DNA structures
+				</ANSWER>
+				<AnswerURL> http://healthland.time.com/2013/02/22/why-some-people-are-more-likely-to-catch-a-cold/ </AnswerURL>
+				<COMMENT> considered as susceptibility question. Both prevention and susceptibility answers are relevant. </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ71">
+		<Original-Question qfile="1-121846105.xml.txt">
+			<SUBJECT>Janumet XR 50mg/1000mg- 1 daily</SUBJECT>
+			<MESSAGE>Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &amp; what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is maximum daily dosage of Metformin?</NIST-PARAPHRASE>
+		<NLM-Summary>What is maximum daily dosage of Metformin?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">Metformin</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">DOSAGE</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ71A1">
+				<ANSWER>The maximum recommended daily dose of metformin hydrochloride tablets are 2550 mg in adults and 2000 mg in pediatric patients (10-16 years of age).</ANSWER>
+				<AnswerURL>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=56d13a1c-b289-4528-b23c-60f5427b4552</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ72">
+		<Original-Question qfile="NF_256.txt">
+			<SUBJECT>SSPE</SUBJECT>
+			<MESSAGE>My son is 33years of age and did not have the measles vaccination.Could SSPE occur at this age or in the future?
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Could someone who did not get vaccinated for measles in childhood develop SSPE anytime in adulthood?</NIST-PARAPHRASE>
+		<NLM-Summary>Could an adult who was not vaccinated for measles get SSPE?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">SSPE</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SUSCEPTIBILITY</TYPE>
+			<KEYWORD kid="K1" kcategory="ProcedureDevice">measles vaccination</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ72A1">
+				<ANSWER>Very few cases are seen in the U.S. since the nationwide measles vaccination program. SSPE tends to occur several years after a person has measles, even though the person seems to have fully recovered from the illness. Males are more often affected than females. The disease generally
+					occurs in children and adolescents.</ANSWER>
+				<AnswerURL>https://medlineplus.gov/ency/article/001419.htm</AnswerURL>
+				<COMMENT> Answers about SSPE onset age are relevant</COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ72A2">
+				<ANSWER>Subacute sclerosing panencephalitis (SSPE) is a very rare, but fatal disease of the central nervous system that results from a measles virus infection acquired earlier in life. SSPE generally develops 7 to 10 years after a person has measles, even though the person seems to have fully
+					recovered from the illness. Since measles was eliminated in 2000, SSPE is rarely reported in the United States.
+
+					Among people who contracted measles during the resurgence in the United States in 1989 to 1991, 4 to 11 out of every 100,000 were estimated to be at risk for developing SSPE. The risk of developing SSPE may be higher for a person who gets measles before they are two years of age.
+				</ANSWER>
+				<AnswerURL>https://www.cdc.gov/measles/about/complications.html</AnswerURL>
+				<COMMENT></COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ73">
+		<Original-Question qfile="10054.txt">
+			<SUBJECT>ClinicalTrials.gov - Question - general information.	</SUBJECT>
+			<MESSAGE>My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this. We are looking for the current research and treatments available. She is 5 months old now and her leg seems to be most affected. We want to get her help as soon as possible to address
+				the symptoms and treat her condition.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the most current findings regarding causation, treatment and therapy for children with Kippel-Tranaunay-Syndrome (KTS)?</NIST-PARAPHRASE>
+		<NLM-Summary>What are the current research and treatments for children with Klippel-Trenaunay-Syndrome?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">Klippel-Tranaunay Syndrome</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">INFORMATION</TYPE>
+			<TYPE tid="T2" hasFocus="F1" hasKeyword="K1,K2">TREATMENT</TYPE>
+			<KEYWORD kid="K1" kcategory="Anatomy">leg</KEYWORD>
+			<KEYWORD kid="K2" kcategory="PersonPopulation">5 months old</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ73A1">
+				<ANSWER>Supportive care for Klippel-Trenaunay syndrome
+
+					Compression garments-Your doctor may recommend that your child wear tight-fitting pieces of clothing on the affected limb to reduce pain and swelling. They can also help protect your child's limb from bumps and scrapes, which can cause bleeding.
+					Heel inserts-If your child's legs are slightly different lengths (less than one inch difference), a heel insert can help your child walk normally.
+					Anticoagulant therapy-One of the biggest potential risks of KTS is that a blood clot formed in the abnormal blood vessels may break off and make its way to your child's heart or lungs. Your doctor may recommend medications that thin your child's blood to help prevent blood clots from forming.
+					Other medications-Your doctor may also recommend various pain medications and antibiotic medications for your child.
+					Surgical care for Klippel-Trenaunay syndrome
+
+					Orthopedic Center-KTS can cause your child's foot or leg to become excessively large; in some cases your doctor may recommend an operation.
+					An orthopedic surgeon can reshape your child's foot to help him fit it into a shoe.
+					An orthopedic surgeon can perform a procedure called epiphysiodesis, which interrupts the growth plate and stops the leg from growing when it's reached a certain length.
+					Other surgeries-Your doctor may recommend one of these other surgical procedures if your child's symptoms call for it.
+					A surgeon can remove some of your child's excessive problematic veins.
+					A surgeon can also help reduce the size of your child's affected limb with a debulking procedure, in which many of the abnormal vessels and some of the overgrown tissue is removed.
+					Sclerotherapy -To help shrink and eliminate your child's abnormal veins in the affected area, your doctor may propose the injection of an irritating solution, which causes the veins to collapse. One of our experienced interventional radiologists can perform this procedure.
+					Laser therapy-Pulsed dye laser treatments can help lighten your child's capillary malformation (port wine stain). Laser treatment can also speed healing if your child's lesion begins to bleed.
+				</ANSWER>
+				<AnswerURL>http://www.childrenshospital.org/conditions-and-treatments/conditions/k/klippel-trenaunay-syndrome/treatments</AnswerURL>
+				<COMMENT>Boston Childrens Hospital</COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ73A2">
+				<ANSWER>There are many different treatment options for patients with KTS depending on your child's symptoms:
+
+					Compression garments, like tight-fitting, elastic sleeves, supply blood flow back to the heart (chronic vein insufficiency). They prevent lymphedema and recurrent bleeding from capillary or venous malformations of the limb. They also protect the limb from trauma. Learn more about compression garments
+					(PDF).
+					Pain medicine, antibiotics and elevating the limb to manage swelling.
+					Medicines to prevent blood clotting (anticoagulant therapy).
+					Heel inserts or surgery may be considered when one leg is longer than another.
+					Your child may be referred to an orthopedic specialist to help develop a treatment plan.
+					Laser therapy to lighten the color of the port wine stain, treat pain or help ulcers or open sores heal.
+					Sclerotherapy (SCLAIR-oh-THAIR-uh-pee) to block unneeded veins.
+					Some patients with KTS need surgery. This includes:
+
+					Vein ligation: Clamping off a section of veins to prevent blood flow through a damaged section. It promotes blood flow through veins that are not damaged.
+					Vein stripping: Using a metal wire to remove swelling inside a damaged vein.
+					Vein resection: Removing a section of veins from the body.
+				</ANSWER>
+				<AnswerURL>http://www.seattlechildrens.org/medical-conditions/common-childhood-conditions/klippel-trenaunay-syndrome-KTS/</AnswerURL>
+				<COMMENT>Seattle Children's Hospital</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ74">
+		<Original-Question qfile="1-123163195.xml.txt">
+			<SUBJECT>Iron Overdose</SUBJECT>
+			<MESSAGE>Um...i took 25 iron pills...what do i do...this was last night</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is the treatment for someone who thinks he has taken an overdose of Iron pills?</NIST-PARAPHRASE>
+		<NLM-Summary>What to do for iron overdose?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">Iron Overdose</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">TREATMENT</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ74A1">
+				<ANSWER>
+
+					Iron is a mineral found in many over-the-counter supplements. Iron overdose occurs when someone takes more than the normal or recommended amount of this mineral. This can be by accident or on purpose.
+
+					Iron overdose is especially dangerous for children. A severe overdose can happen if a child eats adult multivitamins, such as prenatal vitamins. If the child eats too many pediatric multivitamins, the effect is usually minor.
+
+					This is for information only and not for use in the treatment or management of an actual overdose. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison center can be reached directly by
+					calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.
+
+					Your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. This national hotline number will let you talk to experts in poisoning. They will give you further instructions.
+
+					Before Calling Emergency
+					Have this information ready:
+
+					Person's age, weight, and condition
+					Name of the product (ingredients and strength, if known)
+					Time it was swallowed
+					Amount swallowed
+					If the medicine was prescribed for the person
+
+				</ANSWER>
+				<AnswerURL>https://medlineplus.gov/ency/article/002659.htm</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ75">
+		<Original-Question qfile="1-135770307.xml.txt">
+			<SUBJECT>Inherited Ricketts</SUBJECT>
+			<MESSAGE>Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is the likelihood that a person with hereditary rickets will pass it to his or her child?</NIST-PARAPHRASE>
+		<NLM-Summary>How is rickets inherited?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">Inherited Ricketts</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">SUSCEPTIBILITY</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ75A1">
+				<ANSWER>Hereditary hypophosphatemic rickets can have several patterns of inheritance. When the condition results from mutations in the PHEX gene, it is inherited in an X-linked dominant pattern. The PHEX gene is located on the X chromosome, which is one of the two sex chromosomes. In females
+					(who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder.
+					Less commonly, hereditary hypophosphatemic rickets can have an X-linked recessive pattern of inheritance. This form of the condition is often called Dent disease. Like the PHEX gene, the gene associated with Dent disease is located on the X chromosome. In males, one altered copy of the gene in each
+					cell is sufficient to cause the condition. In females, a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than
+					females.
+					In a few families, hereditary hypophosphatemic rickets has had an autosomal dominant inheritance pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. The rare condition HHRH has an autosomal recessive pattern of inheritance, which means both copies of
+					a gene in each cell have mutations.
+				</ANSWER>
+				<AnswerURL>https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets#inheritance</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ75A2">
+				<ANSWER>
+					Hypophosphatemic rickets is most often inherited in an X-linked dominant manner. This means that the gene responsible for the condition is located on the X chromosome, and having only one mutated copy of the gene is enough to cause the condition.
+
+					Because males have only one X chromosome (and one Y chromosome) and females have two X chromosomes, X-linked dominant conditions affect males and females differently. Both males and females can have an X-linked dominant condition. However, because males don't have a second, working copy of the gene
+					(as females do), they usually have more severe disease than females.
+
+					If a father has the mutated X-linked gene:
+					all of his daughters will inherit the mutated gene (they will all receive his X chromosome)
+					none of his sons will inherit the mutated gene (they only inherit his Y chromosome)
+					If a mother has the mutated X-linked gene, each of her children (both male and female) has a 50% chance to inherit the mutated gene.
+
+					Less commonly, hypophosphatemic rickets is inherited in an X-linked recessive, autosomal dominant, or autosomal recessive manner.
+				</ANSWER>
+				<AnswerURL> https://rarediseases.info.nih.gov/diseases/6735/hypophosphatemic-rickets </AnswerURL>
+				<COMMENT> Answers describing inheritance are relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ76">
+		<Original-Question qfile="1-136399685.xml.txt">
+			<SUBJECT>Medicare Part B coverage</SUBJECT>
+			<MESSAGE>I suffer with acute fibromyalgia (sp?) and the various drugs my doctor has prescribed for me have little if any effect in helping to control the pain. My doctor has since given me a prescription to have massage therapy which she thought medicare would cover. However, when checking with
+				medicare, it turns out that it does not! Can you suggest any other type of treatment?
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is fibromyalgia and how is it treated?</NIST-PARAPHRASE>
+		<NLM-Summary>What are alternative treatments for fibromyalgia?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">acute fibromyalgia</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">TREATMENT</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ76A1">
+				<ANSWER>What do we know about the effectiveness of complementary health approaches for fibromyalgia?
+					Although some studies of tai chi, yoga, mindfulness meditation, and biofeedback for fibromyalgia have had promising results, the evidence is too limited to allow definite conclusions to be reached about whether these approaches are helpful.
+					It's uncertain whether acupuncture is helpful for fibromyalgia pain.
+					Vitamin D supplements may reduce pain in people with fibromyalgia who are deficient in this vitamin.
+					Some preliminary research on transcranial magnetic stimulation (TMS) for fibromyalgia symptoms has had promising results.
+				</ANSWER>
+				<AnswerURL>https://nccih.nih.gov/health/pain/fibromyalgia.htm</AnswerURL>
+				<COMMENT>Alternatrive treatments</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ77">
+		<Original-Question qfile="1-133811427.xml.txt">
+			<SUBJECT>Homozygout MTHFR A1298C Health Issues and long term prognosis?</SUBJECT>
+			<MESSAGE>What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is your position on Homozygout MTHFR A1298C (a genetic change) Issues and long term prognosis?</NIST-PARAPHRASE>
+		<NLM-Summary>What health issues could be caused by Homozygous MTHFR A1298C and what is the prognosis?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">Homozygout MTHFR A1298C Health Issues</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">INFORMATION</TYPE>
+			<TYPE tid="T2" hasFocus="F1">PROGNOSIS</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ77A1">
+				<ANSWER>MTHFR gene mutation is a genetic change that affects an enzyme involved in breaking down the amino acid homocysteine.[1][2][3] C677T and A1298C are two very common MTHFR gene changes.
+
+					People with MTHFR gene mutations may develop elevated levels of homocysteine in their blood (homocysteinemia) or urine (homocystinuria). Risks for health effects vary depending on the levels of homocysteine.[5]
+
+					High homocysteine levels in the body may occur if the MTHFR enzyme is not functioning normally due to MTHFR mutations such as C677T and A1298C. Elevated levels of homocysteine can also occur if there is a lack of folate or B vitamins. Homocysteine levels also tend to rise with age, smoking, and use
+					of certain drugs (such as carbamazepine, methotrexate, and phenytoin).[13][14]
+
+					It is important to ensure that people with and without MTHFR gene mutations receive adequate amounts of folate, choline, and B vitamins (B12, B6, and riboflavin) to mitigate health risks. If adequate nutrition cannot be attained through diet alone, supplementation with folate (e.g., levomefolate
+					(5-methyl THF) or folinic acid) and B vitamins is considered.[3][13] Speak to a healthcare professional if you have questions about your nutrition or need for vitamin supplementation.
+
+				</ANSWER>
+				<AnswerURL>https://rarediseases.info.nih.gov/diseases/10953/mthfr-gene-mutation</AnswerURL>
+				<COMMENT>Covers health issues</COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ77A2">
+				<ANSWER>
+					Outlook (Prognosis)
+					Although no cure exists for homocystinuria, vitamin B therapy can help about half of people affected by the condition.
+
+					If the diagnosis is made in childhood, starting a low-methionine diet quickly may prevent some intellectual disability and other complications of the disease. For this reason, some states screen for homocystinuria in all newborns.
+
+					People whose blood homocysteine levels continue to rise are at increased risk for blood clots. Clots can cause serious medical problems and shorten lifespan.
+
+					Possible Complications
+					Most serious complications result from blood clots. These episodes can be life-threatening.
+
+					Dislocated lenses of the eyes can seriously damage vision. Lens replacement surgery may be needed.
+
+					Intellectual disability is a serious consequence of the disease. But, it can be reduced if diagnosed early.
+				</ANSWER>
+				<AnswerURL> https://medlineplus.gov/ency/article/001199.htm </AnswerURL>
+				<COMMENT> Covers prognosis for those who develop homocystinuria</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ78">
+		<Original-Question qfile="15295.txt">
+			<SUBJECT>Vitamin D intake</SUBJECT>
+			<MESSAGE>Can high doses of Vitamin D (50,000 IUs per week) cause flatulence, among other possible effects? And is such a high dose safe to raise very low levels of Vitamin D in the body?
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Is a high dose, 50,000 IUs, of vitamin D safe if you have a deficiency? Can high doses cause flatulence or other side effects?</NIST-PARAPHRASE>
+		<NLM-Summary>Is 50,000 IUs per week of Vitamin D safe and can it cause flatulence? </NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">Vitamin D</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SIDE_EFFECT</TYPE>
+			<TYPE tid="T2" hasFocus="F1" hasKeyword="K2">DOSAGE</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">flatulence</KEYWORD>
+			<KEYWORD kid="K2" kcategory="Measurement">50,000 IUs</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ78A1">
+				<ANSWER>
+					Can vitamin D be harmful?
+					Yes, when amounts in the blood become too high. Signs of toxicity include nausea, vomiting, poor appetite, constipation, weakness, and weight loss. And by raising blood levels of calcium, too much vitamin D can cause confusion, disorientation, and problems with heart rhythm. Excess vitamin D can
+					also damage the kidneys.The upper limit for vitamin D is 1,000 to 1,500 IU/day for infants, 2,500 to 3,000 IU/day for children 1-8 years, and 4,000 IU/day for children 9 years and older, adults, and pregnant and lactating teens and women. Vitamin D toxicity almost always occurs from overuse of
+					supplements. Excessive sun exposure doesn't cause vitamin D poisoning because the body limits the amount of this vitamin it produces.
+				</ANSWER>
+				<AnswerURL> https://ods.od.nih.gov/factsheets/VitaminD-Consumer/</AnswerURL>
+				<COMMENT> some websites report flatulence caused by constipation, which is caused by vitamin d. The answer is mostly about other effects and safe doses, but getting the flatulence part only answers the first subquestion</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ79">
+		<Original-Question qfile="1-123260425.xml.txt">
+			<SUBJECT>Shingles	</SUBJECT>
+			<MESSAGE>I am looking for information on how to prevent a shingles outbreak.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What causes shingles and how can it be prevented?</NIST-PARAPHRASE>
+		<NLM-Summary>How to prevent shingles?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">shingles outbreak</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">PREVENTION</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ79A1">
+				<ANSWER>
+					How Can You Reduce Your Risk of Getting Shingles?
+					Vaccination is the only way to reduce your risk of shingles and PHN. CDC recommends adults age 60 years or older receive a single dose of shingles vaccine. Zostavax'ae is the only shingles vaccine currently available. It is available by prescription from a healthcare professional. Talk with your doctor or
+					pharmacist if you have questions about the shingles vaccine.
+				</ANSWER>
+				<AnswerURL> https://www.cdc.gov/Features/Shingles/</AnswerURL>
+				<COMMENT> it is OK if an answer mentions asking or visiting a doctor, but only in addition to specific information that directly answers the question. Just answering go see your doctor is not very useful -- it is our standard disclaimer. in this task, we aim to provide information that will
+					allow better communicate with the doctor</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ80">
+		<Original-Question qfile="1-118275165.xml.txt">
+			<SUBJECT> General health
+			</SUBJECT>
+			<MESSAGE>my father age 65 his always leg pain which use medicine</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What medication should a 65 year old male use for leg pain?</NIST-PARAPHRASE>
+		<NLM-Summary>What medication should a 65 year old male use for leg pain?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">leg pain</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">TREATMENT</TYPE>
+			<KEYWORD kid="K1" kcategory="PersonPopulation">age 65</KEYWORD>
+
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ80A1">
+				<ANSWER> Take over-the-counter pain medicines like acetaminophen or ibuprofen.
+					2. Try over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve)
+				</ANSWER>
+				<AnswerURL> https://medlineplus.gov/ency/article/003182.htm
+					2. http://www.mayoclinic.org/symptoms/leg-pain/basics/when-to-see-doctor/sym-20050784
+				</AnswerURL>
+				<COMMENT> The question is underspecified as the cause is not given. Any answers listing over the counter pain killers generally acceptable for long-term use are fine.  </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ81">
+		<Original-Question qfile="12969.txt">
+			<SUBJECT>CVID	</SUBJECT>
+			<MESSAGE>I have recently been diagnosed with CVID. As a person with thyroid a thyroid tumor greater than 1 cm. and several thyroid cysys I am concerned about cancer. What are the current stats. The tumor is being monitored by my endocrinologist.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the chances that a person with CVID, who also has a thyroid tumor, will get cancer?</NIST-PARAPHRASE>
+		<NLM-Summary>What is the risk of cancer in a person with CVID and thyroid tumor?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">CVID</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">cancer</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ81A1">
+				<ANSWER>
+					1. The long-term outlook (prognosis) and life expectancy for people with common variable immunodeficiency (CVID) varies. The prognosis largely depends on whether there is severe autoimmune disease; whether there are recurrent infections that cause structural lung damage; and the development of a
+					malignancy (cancer). Other major factors that influence prognosis include the extent of organ damage and how successfully infections can be prevented.
+					Affected people who have only bacterial infections have a better prognosis than those with additional complications and can have nearly normal life expectancy. This is especially the case if they are diagnosed early and begin treatment soon after the onset of symptoms.
+
+					2. In some cases, abnormal growth of small nodules of lymphoid tissue in the gastrointestinal tract (nodular lymphoid hyperplasia) may occur. In addition, an increased percent of individuals with CVID are more prone to developing certain forms of cancer than the general population such as
+					malignancies of lymphatic tissue (lymphoma) and possibly stomach cancer). The risk of gastric carcinoma is almost 50 times greater in patients with CVID than in other individuals.
+
+					In addition, some individuals with CVID may develop granular, inflammatory nodules (noncaseating granulomas) within tissue of the skin, lungs, spleen, and/or liver.
+
+					3. Of the 411 subjects with known follow-up (87% of the cohort), 93 patients (19.6%) had died.
+					The median age at death was 44 years for females (range 10-90 years) and 42 years for
+					males (range 9-79 years), not significantly different. The predominant causes of death
+					included respiratory failure from chronic lung disease, lymphoid or other malignancy, or
+					overwhelming infections (TABLE 6). To further examine the mortality of this cohort, we
+					compared those with known long term follow-up, 226 females (48%) and 185 males (39%)
+					to age-matched population controls. The survival of both male (p=0.0001) and female
+					(p=0.0001) CVID subjects was significantly reduced as compared to 1994 United States
+					reference information.34 (FIGURE 1) The risk of death in this interval was nearly 11 times
+					higher for CVID patients with one or more of the non-infectious complications, than for
+					subjects who had infections only (HR=10.96; p=0.0001) (TABLE 7). Kaplan-Meier Analysis
+					confirmed this observation, with a long term survival of 95% for patients without versus 42%
+					for those with non-infectious complications (FIGURE 2). These data agree with a previous
+					study on CVID subjects from the ESID registry.7
+					However, we found here that not all complications were associated with reduced survival. Patients with gastrointestinal disease
+					(HR 2.78; p=0.0004), liver disease/hepatitis (HR 2.48; p=0.0003), lymphoma (HR 2.44;
+					p=0.001), chronic lung disease including radiological and/or functional lung disease as
+					described above (HR 2.06; p=0.001), or malabsorption (HR 2.06; p=0.022) had reduced
+					survival in this interval, as compared to CVID patients without these particular complications.
+					In contrast, patients with any of the autoimmune conditions, cancers other
+					than lymphoma, history of splenectomy, presence of granulomatous disease, or the
+					development of bronchiectasis alone, did not have significantly reduced survival over the 4
+					decades of study.
+				</ANSWER>
+				<AnswerURL> 1. https://rarediseases.info.nih.gov/diseases/6140/common-variable-immunodeficiency
+					2. https://rarediseases.org/rare-diseases/common-variable-immune-deficiency/
+					3. http://www.bloodjournal.org/content/bloodjournal/early/2011/12/16/blood-2011-09-377945.full.pdf?sso-checked=true
+				</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ82">
+		<Original-Question qfile="1-135801297.xml.txt">
+			<SUBJECT>diabete</SUBJECT>
+			<MESSAGE>whats diabete</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the different types of diabetes and how do they affect the body?</NIST-PARAPHRASE>
+		<NLM-Summary>What is diabetes?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">diabete</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">INFORMATION</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ82A1">
+				<ANSWER>
+					Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With type 1 diabetes, your body does not make insulin. With type 2 diabetes, the more common
+					type, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood. You can also have prediabetes. This means that your blood sugar is higher than normal but not high enough to be called diabetes. Having prediabetes puts you at a higher risk of getting
+					type 2 diabetes. Over time, having too much glucose in your blood can cause serious problems. It can damage your eyes, kidneys, and nerves. Diabetes can also cause heart disease, stroke and even the need to remove a limb. Pregnant women can also get diabetes, called gestational diabetes.
+				</ANSWER>
+				<AnswerURL>https://medlineplus.gov/diabetes.html </AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ83">
+		<Original-Question qfile="1-136927983.xml.txt">
+			<SUBJECT>wellbutrin xl 150</SUBJECT>
+			<MESSAGE>how to taper off	</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>How do I taper off from WELLBUTRIN XL 150 mg/day?</NIST-PARAPHRASE>
+		<NLM-Summary>How to taper off wellbutrin xl 150?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">wellbutrin xl 150</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">TAPERING</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ83A1">
+				<ANSWER> 1. he tapered off bupropion SR, taking 150 mg/day for 4 days followed by 150 mg every other day for 8 days (4 total doses) and 150 mg every third day for 6 days (2 total doses) without further complications.
+					2. For patients taking 300 mg/day during the autumn-winter season, the dose should be tapered to 150 mg/day for 2 weeks prior to discontinuation.
+					Adverse events with onset during the 2 weeks following down-titration of WELLBUTRIN XL from 300 mg/day to 150 mg/day were reported by 14% of patients compared to 18% of patients who continued on placebo.
+
+					Adverse events with onset during the 2 weeks following discontinuation of WELLBUTRIN XL were reported by 9% of patients compared with 12% of patients following discontinuation of placebo.
+
+				</ANSWER>
+				<AnswerURL> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC181057/
+					2. https://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=8985
+				</AnswerURL>
+				<COMMENT> any site that provides a schedule for tapering is fine, e.g., http://survivingantidepressants.org/index.php?/topic/877-tips-for-tapering-off-wellbutrin-ir-sr-xr-xl-bupropion/</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ84">
+		<Original-Question qfile="1-121714645.xml.txt">
+			<SUBJECT>Periodic liver tests for patients on Lipitor</SUBJECT>
+			<MESSAGE>I was told at one point that anyone on Lipitor should have blood screening for liver damage every 6 months. Is this currently still the recommendation? NOTE: Although I am in recovery, I also have a history of alcoholism.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Is it recommended for patients on Lipitor to have their liver function monitored by blood testing every six months.</NIST-PARAPHRASE>
+		<NLM-Summary>Is it recommended for patients with history of alcoholism who take Lipitor to have their liver function monitored every six months?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">Lipitor</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SIDE_EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">liver damage</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ84A1">
+				<ANSWER> prospective monitoring of serum enzymes upon initiating atorvastatin therapy is no longer recommended. Clinically apparent liver injury attributed to atorvastatin is usually self-limited and recovery is complete within 1 to 4 months.  </ANSWER>
+				<AnswerURL> https://livertox.nih.gov/Atorvastatin.htm </AnswerURL>
+				<COMMENT> lipitor is atorvastatin </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ85">
+		<Original-Question qfile="1-123259775.xml.txt">
+			<SUBJECT>General health</SUBJECT>
+			<MESSAGE>Hi I have heard in order to get benefit of calcium, it should take with Magnesium, is that right ? I bought Calcium Castco ( Kirkland ) brand with D please let me know if is good for me because I am osteoporosis . Please help me . thanks
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Is a calcium supplement beneficial for persons who have osteoporosis, and will the addition of magnesium be of greater benefit?</NIST-PARAPHRASE>
+		<NLM-Summary>Is a calcium supplement beneficial for osteoporosis, and should it be taken with magnesium?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">calcium</FOCUS>
+			<FOCUS fid="F2" fcategory="Problem">osteoporosis</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">ACTION</TYPE>
+			<TYPE tid="T2" hasFocus="F2" hasKeyword="K2">TREATMENT</TYPE>
+			<KEYWORD kid="K1" kcategory="DrugSupplement">Magnesium</KEYWORD>
+			<KEYWORD kid="K2" kcategory="DrugSupplement">Calcium Castco ( Kirkland ) brand with D</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ85A1">
+				<ANSWER> 1. It's also a good idea to take your calcium supplements at a different time from your multivitamin or an iron-rich meal. Calcium may not be absorbed as well if it's taken at the same time as iron, zinc or magnesium.
+					2. Vitamin D intake: this nutrient, obtained from food and produced by skin when exposed to sunlight of sufficient intensity, improves calcium absorption.
+					3. In 1993, the U.S. Food and Drug Administration authorized a health claim related to calcium and osteoporosis for foods and supplements [58]. In January 2010, this health claim was expanded to include vitamin D. Model health claims include the following: "Adequate calcium throughout life, as
+					part of a well-balanced diet, may reduce the risk of osteoporosis" and "Adequate calcium and vitamin D as part of a healthful diet, along with physical activity, may reduce the risk of osteoporosis in later life"
+				</ANSWER>
+				<AnswerURL> http://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/calcium-supplements/faq-20058238
+					2. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+					3. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+				</AnswerURL>
+				<COMMENT>calcium with magnesium is wrong; they shouldn't be taken together. It's not necessary to take vitamin D with calcium but it doesn't hurt. </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ86">
+		<Original-Question qfile="NF_186.txt">
+			<SUBJECT>Testing for EDS</SUBJECT>
+			<MESSAGE>I would like to know if you can point me in the direction of a laboratory in Southern California, Specifically San Bernardino County or LA County or even Riverside County that does genetic testing for EDS or Osteogenesis Imperfecta and do you know if the two diseases are similiar in
+				symptoms? Thank you for you help and time.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Where can one be tested for Ehlers-Danlos Syndrome (EDS) and Osteogenesis Imperfecta in Southern California? Are the symptoms for those diseases similar?</NIST-PARAPHRASE>
+		<NLM-Summary>Are the symptoms of EDS and Osteogenesis Imperfecta similar and where can one be tested for these diseases in Southern California?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">EDS</FOCUS>
+			<FOCUS fid="F2" fcategory="Problem">Osteogenesis Imperfecta</FOCUS>
+			<TYPE tid="T1" hasFocus="F1,F2">COMPARISON</TYPE>
+			<TYPE tid="T2" hasFocus="F1">DIAGNOSIS</TYPE>
+			<TYPE tid="T3" hasFocus="F1" hasKeyword="K1">PERSON_ORGANIZATION</TYPE>
+			<TYPE tid="T4" hasFocus="F2">DIAGNOSIS</TYPE>
+			<TYPE tid="T5" hasFocus="F2" hasKeyword="K1">PERSON_ORGANIZATION</TYPE>
+			<KEYWORD kid="K1" kcategory="GeographicLocation">Southern California</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ86A1">
+				<ANSWER> 1. Invitae Ehlers-Danlos Syndrome Panel
+					Laboratory contact: 1400 16th Street, San Francisco, California 94103, United States
+					2. Invitae Osteogenesis Imperfecta Panel
+
+					3. The milder forms of osteogenesis imperfecta, including type I, are characterized by bone fractures during childhood and adolescence that often result from minor trauma. Fractures occur less frequently in adulthood. People with mild forms of the condition typically have a blue or grey tint to
+					the part of the eye that is usually white (the sclera), and may develop hearing loss in adulthood. Affected individuals are usually of normal or near normal height.
+
+					Other types of osteogenesis imperfecta are more severe, causing frequent bone fractures that may begin before birth and result from little or no trauma. Additional features of these conditions can include blue sclerae, short stature, hearing loss, respiratory problems, and a disorder of tooth
+					development called dentinogenesis imperfecta. The most severe forms of osteogenesis imperfecta, particularly type II, can include an abnormally small, fragile rib cage and underdeveloped lungs. Infants with these abnormalities have life-threatening problems with breathing and often die shortly
+					after birth.
+
+					4. Symptoms of EDS include:
+
+					Back pain
+					Double-jointedness
+					Easily damaged, bruised, and stretchy skin
+					Easy scarring and poor wound healing
+					Flat feet
+					Increased joint mobility, joints popping, early arthritis
+					Joint dislocation
+					Joint pain
+					Premature rupture of membranes during pregnancy
+					Very soft and velvety skin
+					Vision problems
+
+				</ANSWER>
+				<AnswerURL> 1. https://www.ncbi.nlm.nih.gov/gtr/tests/553788/laboratory/
+					2. https://www.ncbi.nlm.nih.gov/gtr/tests/551762/
+					3. https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta
+					4. https://medlineplus.gov/ency/article/001468.htm
+				</AnswerURL>
+				<COMMENT> providing only a link to https://www.ncbi.nlm.nih.gov/gtr/ is fine, it's also fine to provide http://www.oif.org/site/DocServer/Fact_Sheet_Testing_Labs.pdf?docID=17844
+					the disorders don't have common symptoms; returning symptoms of each is fine
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ87">
+		<Original-Question qfile="NF_235.txt">
+			<SUBJECT>Consultation</SUBJECT>
+			<MESSAGE>Hello! I have acute chronic cervicitis caused by tampon use. It took a year and a half of treatment (medicines, cauterization), but the symptoms do not stop inflammation and analyzes not determined that bacteria produce inflammation me. I wonder if, despite not being a sexual cervicitis
+				infection, it can cause infertility. And that's what makes a tampon that causes inflammation. Thank you very much!
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Can chronic cervicitis cause infertility? Why would tampons cause inflammation?</NIST-PARAPHRASE>
+		<NLM-Summary>Can chronic cervicitis cause infertility? </NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">inflammation</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">CAUSE</TYPE>
+			<KEYWORD kid="K1" kcategory="ProcedureDevice">tampon</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ87A1">
+				<ANSWER> 1. Cervicitis will go away within a few days to a week after you start taking antibiotics. If you have pelvic inflammatory disease, it may take a few weeks to treat the infection completely. Pelvic inflammatory disease can cause more serious problems, such as infertility or pain from
+					scar tissue.
+					2. Cervicitis may last for months to years. Cervicitis may lead to pain with intercourse (dyspareunia).
+				</ANSWER>
+				<AnswerURL> 1. http://www.health.harvard.edu/womens-health/cervicitis
+					2. https://medlineplus.gov/ency/article/001495.htm
+				</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ88">
+		<Original-Question qfile="60.txt">
+			<SUBJECT>trisomy 7</SUBJECT>
+			<MESSAGE>trisomy 7. i am a 32 y/o who has had 4 miscarriages in the past 19 months. Upon my last DNC two weeks ago revealed a genetics study diagnosis of the baby having trisomy 7. could you offer me any information on this? could this have been maternal or paternal? is this something i would be
+				a carrier of? What are the causes? i have tried but haven't found much information
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>How does trisomy 7 affect the body and are there any treatments for it?</NIST-PARAPHRASE>
+		<NLM-Summary>What is trisomy 7 and what causes it?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">trisomy 7</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">INFORMATION</TYPE>
+			<TYPE tid="T2" hasFocus="F1">INHERITANCE</TYPE>
+			<TYPE tid="T3" hasFocus="F1">CAUSE</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ88A1">
+				<ANSWER> 1. Trisomy 7 is extremely rare at birth and is generally considered lethal in embryogenesis. All surviving children are mosaics with variable and nonspecific clinical features. Chromosomal mosaicism may be suggested by body asymmetry and/or Blaschkolinear skin pigmentary dysplasia
+					associated with developmental delay. Cultured skin fibroblasts cytogenetic analysis confirms mosaicism and identifies its chromosomal origin. In amniocytes, trisomy 7 is frequently a cell culture artifact leading to single- or multiple-cell pseudomosaicism with normal fetal outcome.
+
+
+					2. 7q11.23 duplication syndrome is considered to be an autosomal dominant condition, which means one copy of chromosome 7 with the duplication in each cell is sufficient to cause the disorder. Most cases result from a duplication that occurs during the formation of reproductive cells (eggs and
+					sperm) or in early fetal development. These cases occur in people with no history of the disorder in their family. Less commonly, an affected person inherits the chromosome with a duplicated segment from a parent.
+
+
+
+					3. Rearrangements of chromosomes include deletions of DNA sequences and duplications of segments, both of which can encompass thousands to hundreds of thousands of bases. Why do these large rearrangements occur? For one, certain structural features of the genome, also referred to as genome
+					architecture, can render various regions fragile and thus prone to events such as chromosome breakage, which often result in translocations, deletions, and duplications. Often, these alterations happen due to errors during cell division when chromosomes align (Figure 1). Homologous
+					recombination between areas of concentrated repeated sequences frequently creates deletions and duplications. Because they commonly involve more than one gene, the disorders caused by these large deletion and duplication mutations are often severe.
+
+				</ANSWER>
+				<AnswerURL>
+					1. http://www.nature.com/ejhg/journal/v13/n9/full/5201442a.html
+
+					2. https://ghr.nlm.nih.gov/condition/7q1123-duplication-syndrome#inheritance
+
+					3. https://www.nature.com/scitable/topicpage/dna-deletion-and-duplication-and-the-associated-331
+				</AnswerURL>
+				<COMMENT> there is no specific information for Trisomy 7 causes -- general information on causes of duplication is relevant. </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ89">
+		<Original-Question qfile="1-134310345.xml.txt">
+			<SUBJECT>metformin</SUBJECT>
+			<MESSAGE>Does metformin cause high blood pressure?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Does metformin cause high blood pressure?</NIST-PARAPHRASE>
+		<NLM-Summary>Does metformin cause high blood pressure?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">metformin</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SIDE_EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">high blood pressure</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ89A1">
+				<ANSWER> 1. This meta-analysis suggested that metformin could effectively lower SBP in nondiabetic patients, especially in those with impaired glucose tolerance or obesity. </ANSWER>
+				<AnswerURL>https://www.ncbi.nlm.nih.gov/pubmed/27607453</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ89A2">
+				<ANSWER> 2. Metformin does not significantly affect BP in patients with Type 2 diabetes intensively treated with insulin.</ANSWER>
+				<AnswerURL> 1. http://journals.lww.com/jhypertension/Abstract/2017/01000/Effects_of_metformin_on_blood_pressure_in.4.aspx
+					2. https://www.ncbi.nlm.nih.gov/pubmed/15975107
+				</AnswerURL>
+				<COMMENT> pages with patients' discussions about metformin that contain answers are also relevant, so are the lists of metformin side effects </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ90">
+		<Original-Question qfile="1-131961705.xml.txt">
+			<SUBJECT>aclidinium	</SUBJECT>
+			<MESSAGE>is this a steroid? is there a problem using this if there is a possibility of the need for cataract surgery within the next 12 months?	</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Is aclidinium a steroid? Is it contraindicated within 12 months prior to cataract surgery?</NIST-PARAPHRASE>
+		<NLM-Summary>Is aclidinium a steroid and is it contraindicated within 12 months prior to cataract surgery?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">aclinidium</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">INFORMATION</TYPE>
+			<TYPE tid="T2" hasFocus="F1" hasKeyword="K2">CONTRAINDICATION</TYPE>
+			<KEYWORD kid="K1" kcategory="DrugSupplement">steroid</KEYWORD>
+			<KEYWORD kid="K2" kcategory="ProcedureDevice">cataract surgery</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ90A1">
+				<ANSWER>
+					1. Aclidinium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.
+
+					2. There are currently six muscarinic receptor antagonists licenced for use in the treatment of COPD, the short-acting muscarinic receptor antagonists (SAMAs) ipratropium bromide and oxitropium bromide and the long-acting muscarinic receptor antagonists (LAMAs) aclidinium bromide, tiotropium
+					bromide, glycopyrronium bromide and umeclidinium bromide. Concerns have been raised about possible associations of muscarinic receptor antagonists with cardiovascular safety, but the most advanced compounds seem to have an improved safety profile.
+
+					3. The use of TUDORZA PRESSAIR is contraindicated in the following conditions:
+					*Severe hypersensitivity to milk proteins [see WARNINGS AND PRECAUTIONS (5.5)] *Hypersensitivity to aclidinium bromide or any of the excipients [see Warnings and Precautions (5.5)]
+				</ANSWER>
+				<AnswerURL>
+					1. https://medlineplus.gov/druginfo/meds/a613001.html
+					2. https://www.ncbi.nlm.nih.gov/pubmed/27787709
+					3. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acdd5932-375b-4966-8a06-3806ab74c36d#section-4
+				</AnswerURL>
+				<COMMENT>for the cataract surgery sub-question, providing the contraindications is relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ91">
+		<Original-Question qfile="1-132079415.xml.txt">
+			<SUBJECT>intestines digestion and sbsorption</SUBJECT>
+			<MESSAGE>kindly explain the general effects of smoking or rather the effects of nicotine to digestion and arbsoption	</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the effects of smoking and/or nicotine on the digestive system?</NIST-PARAPHRASE>
+		<NLM-Summary>What are the effects of smoking on the  digestive system?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">smoking</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="OTHER">digestion</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ91A1">
+				<ANSWER>
+					1. Smoking has been found to increase the risk of cancers of the mouth, esophagus, stomach, and pancreas. Research suggests that smoking may also increase the risk of cancers of the liver, colon, and rectum.
+					Smoking increases the risk of heartburn and gastroesophageal reflux disease (GERD).
+					Smoking increases the risk of peptic ulcers.
+					Smoking may worsen some liver diseases, including primary biliary cirrhosis and nonalcoholic fatty liver disease (NAFLD).
+					Current and former smokers have a higher risk of developing Crohn's disease than people who have never smoked.
+					People who smoke are more likely to develop colon polyps.
+					Smoking increases the risk of developing pancreatitis.
+					Some studies have shown that smoking may increase the risk of developing gallstones.
+
+					2. Epidemiological and experimental evidence have shown that nicotine has harmful effects on the gastric mucosa. The mechanisms by which cigarette smoking or nicotine adversely affect the gastric mucosa have not been fully elucidated. In this report, clinical and experimental data are reviewed.
+					The effects of nicotine from smoking on gastric aggressive or defensive factors are discussed. Nicotine potentiates gastric aggressive factors and attenuates defensive factors; it also increases acid and pepsin secretions, gastric motility, duodenogastric reflux of bile salts, the risk of
+					Helicobacter pylori infection, levels of free radicals, and platelet-activating factor, endothelin generation, and vasopressin secretion. Additionally, nicotine impairs the therapeutic effect of H2-receptor antagonists and decreases prostaglandin synthesis, gastric mucosal blood flow, mucus
+					secretion, and epidermal growth factor secretion. Although many of the studies provide conflicting results, the bulk of the evidence supports the hypothesis that nicotine is harmful to the gastric mucosa.
+				</ANSWER>
+				<AnswerURL>
+					1. https://www.niddk.nih.gov/health-information/digestive-diseases/smoking-digestive-system
+					2. https://www.ncbi.nlm.nih.gov/pubmed/7915701
+				</AnswerURL>
+				<COMMENT>information about smoking or nicotine effects is relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ92">
+		<Original-Question qfile="15344.txt">
+			<SUBJECT>sswollen feet ankles legs I have fibromyalgia</SUBJECT>
+			<MESSAGE>When suffering from fibromyalgia will that cause swollen in your body . The swollen started yesterday</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Does Fibromyalgia cause swelling in your body?</NIST-PARAPHRASE>
+		<NLM-Summary>Can Fibromyalgia cause  feet and ankle swelling? </NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">fibromyalgia</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">swollen</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ92A1">
+				<ANSWER> 1. Fibromyalgia is a disorder that causes muscle pain and fatigue. People with fibromyalgia have "tender points" on the body. Tender points are specific places on the neck, shoulders, back, hips, arms, and legs. These points hurt when pressure is put on them.
+
+					People with fibromyalgia may also have other symptoms, such as
+
+					Trouble sleeping
+					Morning stiffness
+					Headaches
+					Painful menstrual periods
+					Tingling or numbness in hands and feet
+					Problems with thinking and memory (sometimes called "fibro fog")
+
+					2. Foot, leg, and ankle swelling is common when the person also:
+
+					Is overweight
+					Has a blood clot in the leg
+					Is older
+					Has a leg infection
+					Has veins in the legs that cannot properly pump blood back to the heart
+					Injury or surgery involving the leg, ankle, or foot can also cause swelling. Swelling may also occur after pelvic surgery, especially for cancer.
+
+					Long airplane flights or car rides, as well as standing for long periods of time, often lead to some swelling in the feet and ankles.
+
+					Swelling may occur in women who take estrogen, or during parts of the menstrual cycle. Most women have some swelling during pregnancy. More severe swelling during pregnancy may be a sign of preeclampsia, a serious condition that includes high blood pressure and swelling.
+
+					Swollen legs may be a sign of heart failure, kidney failure, or liver failure. In these conditions, there is too much fluid in the body.
+
+					Certain medicines may also cause your legs to swell. Some of these are:
+
+					Antidepressants, including MAO inhibitors and tricyclics
+					Blood pressure medicines called calcium channel blockers
+					Hormones, such as estrogen (in birth control pills or hormone replacement therapy) and testosterone
+					Steroids
+				</ANSWER>
+				<AnswerURL>
+					1. https://medlineplus.gov/fibromyalgia.html
+					2. https://medlineplus.gov/ency/article/003104.htm
+				</AnswerURL>
+				<COMMENT>both the answers about Fibromyalgia symptoms and causes of swelling are relevant  </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ93">
+		<Original-Question qfile="1-135862785.xml.txt">
+			<SUBJECT>Can cancer spread through blood contact</SUBJECT>
+			<MESSAGE>Sir, after giving an insulin injection to my uncle who is a cancer patient the needle accidentally pined my finger. Is there a problem for me? Plz reply.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Can cancer spread through blood contact?</NIST-PARAPHRASE>
+		<NLM-Summary>Can I get cancer from a needlestick?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">cancer</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SUSCEPTIBILITY</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">blood contact</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ93A1">
+				<ANSWER> A healthy person cannot "catch" cancer from someone who has it. There is no evidence that close contact or things like sex, kissing, touching, sharing meals, or breathing the same air can spread cancer from one person to another.
+
+					Cancer cells from one person are generally unable to live in the body of another healthy person. A healthy person's immune system recognizes foreign cells and destroys them, including cancer cells from another person.
+				</ANSWER>
+				<AnswerURL> https://www.cancer.org/cancer/cancer-basics/is-cancer-contagious.html </AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ94">
+		<Original-Question qfile="18415.txt">
+			<SUBJECT>Plantar Fasiciitis</SUBJECT>
+			<MESSAGE>Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities? Are there other forms of aggravation? if so will you please inform me.
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is plantar fasiciitis, and how is it treated?</NIST-PARAPHRASE>
+		<NLM-Summary>Is plantar fasciitis aggravated by weight bearing; what else could aggravate it?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">Plantar fasiciitis</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SUSCEPTIBILITY</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">weight bearing</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ94A1">
+				<ANSWER>
+					You are more likely to get plantar fasciitis if you:
+
+					Have foot arch problems (both flat feet and high arches)
+					Run long distances, downhill or on uneven surfaces
+					Are obese or gain weight suddenly
+					Have a tight Achilles tendon (the tendon connecting the calf muscles to the heel)
+					Wear shoes with poor arch support or soft soles
+					Change your activities
+				</ANSWER>
+				<AnswerURL> https://medlineplus.gov/ency/article/007021.htm </AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ95">
+		<Original-Question qfile="1-132932465.xml.txt">
+			<SUBJECT>CAN LIPNODES AND OR LIVER CANCER BE DETECTED IN A UPPER GI</SUBJECT>
+			<MESSAGE>CAN LIPNODES AND OR LIVER CANCER BE DETECTED IN A UPPER GI</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Can Lipnodes and/or Liver cancer be detected in an upper GI endoscopy?</NIST-PARAPHRASE>
+		<NLM-Summary>Can Liver cancer be detected in an upper GI endoscopy?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">LIVER CANCER</FOCUS>
+			<FOCUS fid="F2" fcategory="Problem">Lipnodes CANCER</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">DIAGNOSIS</TYPE>
+			<TYPE tid="T2" hasFocus="F2" hasKeyword="K1">DIAGNOSIS</TYPE>
+			<KEYWORD kid="K1" kcategory="DiagnosticProcedure">UPPER GI</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ95A1">
+				<ANSWER>1. Upper GI endoscopy can identify many different diseases
+
+					anemia
+					gastroesophageal reflux disease
+					ulcers
+					cancer
+					inflammation, or swelling
+					precancerous abnormalities
+					celiac disease
+
+					2. Tests for Liver Cancer
+
+					If you have some of the signs and symptoms of liver cancer, your doctor will try to find if they are caused by liver cancer or something else.
+
+					Medical history and physical exam
+					Imaging tests: Ultrasound, Computed tomography (CT), Magnetic resonance imaging (MRI), Angiography
+
+					Needle biopsy: A hollow needle is placed through the skin in the abdomen and into the liver. The skin is first numbed with local anesthesia before the needle is placed. Different-sized needles may be used.
+
+					Laparoscopic biopsy: Biopsy specimens can also be taken during laparoscopy. This lets the doctor see the surface of the liver and take samples of abnormal-appearing areas.
+
+					Surgical biopsy: An incisional biopsy (removing a piece of the tumor) or an excisional biopsy (removing the entire tumor and some surrounding normal liver tissue) can be done during an operation.
+
+					Lab tests
+
+				</ANSWER>
+				<AnswerURL>
+					1. https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+					2. https://www.cancer.org/cancer/liver-cancer/detection-diagnosis-staging/how-diagnosed.html
+				</AnswerURL>
+				<COMMENT> any pages on diagnostic procedures for liver cancer are relevant. Pages on diseases identified using upper gi endoscopy are also relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ96">
+		<Original-Question qfile="NF_192.txt">
+			<SUBJECT>abscess teeth	</SUBJECT>
+			<MESSAGE>Can an abscess teeth cause a heart attack</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Can an abscessed tooth cause a heart attack?</NIST-PARAPHRASE>
+		<NLM-Summary>Can an abscessed tooth cause a heart attack?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">heart attack</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">CAUSE</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">abscess teeth</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ96A1">
+				<ANSWER> 1. A heart attack happens if the flow of oxygen-rich blood to a section of heart muscle suddenly becomes blocked and the heart can't get oxygen. Most heart attacks occur as a result of coronary heart disease (CHD).
+
+					2. Endocarditis (EN-do-kar-DI-tis) is an infection of the inner lining of the heart chambers and valves. This lining is called the endocardium (en-do-KAR-de-um). The condition also is called infective endocarditis (IE).
+
+					The term "endocarditis" also is used to describe an inflammation of the endocardium due to other conditions. This article only discusses endocarditis related to infection.
+
+					IE occurs if bacteria, fungi, or other germs invade your bloodstream and attach to abnormal areas of your heart. The infection can damage your heart and cause serious and sometimes fatal complications.
+
+					IE can develop quickly or slowly; it depends on what type of germ is causing it and whether you have an underlying heart problem. When IE develops quickly, it's called acute infective endocarditis. When it develops slowly, it's called subacute infective endocarditis.
+
+					Overview
+
+					IE mainly affects people who have:
+
+					Damaged or artificial (man-made) heart valves
+					Congenital heart defects (defects present at birth)
+					Implanted medical devices in the heart or blood vessels
+					People who have normal heart valves also can have IE. However, the condition is much more common in people who have abnormal hearts.
+
+					Certain factors make it easier for bacteria to enter your bloodstream. These factors put you at higher risk for IE. For example, poor dental hygiene and unhealthy teeth and gums increase your risk for the infection.
+
+				</ANSWER>
+				<AnswerURL>
+					1. https://www.nhlbi.nih.gov/health/health-topics/topics/heartattack/causes
+					2. https://www.nhlbi.nih.gov/health/health-topics/topics/endo
+				</AnswerURL>
+				<COMMENT> both answers on causes of heart attack and the connection between oral infection and heart disease are relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ97">
+		<Original-Question qfile="1-135646357.xml.txt">
+			<SUBJECT>ischemic syncope stroke diagonses</SUBJECT>
+			<MESSAGE>define?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Define Syncope (ischemic stroke)?</NIST-PARAPHRASE>
+		<NLM-Summary>What is ischemic syncope stroke and how is it diagnosed?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">stroke ischemic</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">DIAGNOSIS</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ97A1">
+				<ANSWER> 1. The defining characteristics of syncope include rapid onset with transient loss of consciousness usually accompanied by falling, followed by spontaneous, complete, and usually prompt recovery without intervention. Because some patients use the term dizziness to describe syncopal
+					events, it is important to ask patients exactly what they mean by dizziness and whether loss of consciousness occurred.
+
+					Syncope must be differentiated from vertigo, coma, drop attacks, dizziness, sudden cardiac death, and seizures. Vertigo (i.e., sensation of movement) does not include loss of consciousness. Coma involves loss of consciousness without spontaneous recovery. Drop attacks involve sudden falls without loss
+					of consciousness or warning and with immediate recovery. Drop attacks may be idiopathic but also have several specific causes (e.g., underlying cardiovascular disease, spondylotic osteophytes or colloidal cysts that transiently block the vertebral arteries or cerebral aqueduct, vertebrobasilar
+					stroke). The typical signs of epileptic seizures include dejavu, tongue lacerations, limb jerking, and postictal confusion but not common signs of syncope, such as prodromal diaphoresis, palpitations, or provocation by prolonged sitting or standing. Although limb jerking is noted in 15 percent
+					of syncopal patients, the other typical signs of seizures are absent.
+
+					2. Correct and early diagnosis of TIA versus mimics is critical because early interventions (e.g., antiplatelet agents, statin therapy, blood pressure-lowering therapy, anticoagulation when appropriate) can lead to an 80 percent reduction in risk of recurrent ischemic events. The most common TIA
+					mimics are seizures, migraines, metabolic disturbances, and syncope. Mimics are more likely with gradual onset of symptoms and with nonspecific symptoms (Table 113), such as memory loss or headache.
+
+				</ANSWER>
+				<AnswerURL> 1. http://www.aafp.org/afp/2005/1015/p1492.html
+					2. http://www.aafp.org/afp/2012/0915/p521.html
+				</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ98">
+		<Original-Question qfile="1-123220245.xml.txt">
+			<SUBJECT>SPECIFY COMPONENTS	</SUBJECT>
+			<MESSAGE>COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What are the components of Coenzyme and is it useable for Muslims?</NIST-PARAPHRASE>
+		<NLM-Summary>What are the components of Coenzyme Q10(100-mg) and is it halal?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">COENZYME Q10</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">INGREDIENT</TYPE>
+			<TYPE tid="T2" hasFocus="F1" hasKeyword="K1">INDICATION</TYPE>
+			<KEYWORD kid="K1" kcategory="PersonPopulation">MUSLIMS</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ98A1">
+				<ANSWER> 1. GNC Preventive Nutrition CoQ-10 100 mg Coenzyme Q-10 100 mg; Other Ingredients: Soybean oil, Gelatin, Glycerin, Chlorophyll, Titanium Dioxide (Natural Mineral Whitener). No Sugar, No Starch, No Artificial Colors, No Artificial Flavors, No preservatives, No Wheat, No Gluten, No Corn,
+					No Dairy, Yeast Free.
+
+					2. Metabolic Maintenance CoQ10 (Veggie Capsules) Vitamin C (as Ascorbic Acid), CoEnzyme Q10 (Ubiquinone), vegetarian capsule, l-leucine.
+
+				</ANSWER>
+				<AnswerURL> 1. http://www.consumerlab.com/ingredients/Coenzyme_Q10%20/coq10_old/
+					2. https://www.toxinless.com/coenzyme-q10
+				</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ99">
+		<Original-Question qfile="12467.txt">
+			<SUBJECT>Autoimmune illness</SUBJECT>
+			<MESSAGE>What doctor specializes in testing for and treatment of autoimmune illness?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What doctor specializes in testing for and treating autoimmune diseases?</NIST-PARAPHRASE>
+		<NLM-Summary>What doctor specializes in testing for and treatment of autoimmune disorders?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">autoimmune illness</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">PERSON_ORGANIZATION</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ99A1">
+				<ANSWER> Since autoimmune diseases vary greatly in presentation, many different physician specialists care for patients with these disorders. The specialist is usually skilled in treating diseases of a particular system. For example: rheumatologists tend to treat diseases affecting the joints
+					and connective tissue; neurologists, autoimmune diseases of the central and/or peripheral nervous system; dermatologists; diseases of the skin; gastroenterologists, diseases of the intestinal tract; and endocrinologists, diseases of endocrine organs. It can be truly said that physicians of any
+					specialty may encounter patients with autoimmune disease.  </ANSWER>
+				<AnswerURL> http://autoimmune.pathology.jhmi.edu/faqs.cfm </AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ100">
+		<Original-Question qfile="10774.txt">
+			<SUBJECT>General health</SUBJECT>
+			<MESSAGE> how does effextor cause ED and what is the mimimum amount that causes ED.
+				I take effexor. Is there a mimimum amount that will not cause ED
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>To what extent does Effexor cause ED?</NIST-PARAPHRASE>
+		<NLM-Summary>Could effexor cause ED and in what doses?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">effextor</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SIDE_EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">ED</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ100A1">
+				<ANSWER> The recommended starting dose for Effexor is 75 mg/day, administered in two or three divided doses, taken with food. Depending on tolerability and the need for further clinical effect, the dose may be increased to 150 mg/day. If needed, the dose should be further increased up to 225
+					mg/day. When increasing the dose, increments of up to 75 mg/day should be made at intervals of no less than 4 days. In outpatient settings there was no evidence of usefulness of doses greater than 225 mg/day for moderately depressed patients, but more severely depressed inpatients responded to
+					a mean dose of 350 mg/day. Certain patients, including more severely depressed patients, may therefore respond more to higher doses, up to a maximum of 375 mg/day, generally in three divided doses </ANSWER>
+				<AnswerURL> https://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=9595#s84 </AnswerURL>
+				<COMMENT> recommended doses of effexor are relevant </COMMENT>
+			</ReferenceAnswer>
+			<ReferenceAnswer aid="TQ100A2">
+				<ANSWER>Antidepressants most likely to cause sexual side effects include:
+
+					Selective serotonin reuptake inhibitors (SSRIs), which include citalopram (Celexa), escitalopram (Lexapro), fluoxetine (Prozac, Selfemra), paroxetine (Paxil, Pexeva) and sertraline (Zoloft).
+					Serotonin and norepinephrine reuptake inhibitors (SNRIs), which include venlafaxine (Effexor XR), desvenlafaxine (Pristiq, Khedezla) and duloxetine (Cymbalta).
+					Tricyclic and tetracyclic antidepressants, such as amitriptyline, nortriptyline (Pamelor) and clomipramine (Anafranil).
+					Monoamine oxidase inhibitors (MAOIs), such as isocarboxazid (Marplan), phenelzine (Nardil) and tranylcypromine (Parnate). However, selegiline (Emsam), a newer MAOI that you stick on your skin as a patch, has a low risk of sexual side effects.
+					If you're taking an antidepressant that causes sexual side effects, your doctor may recommend one of these strategies:
+
+					Waiting several weeks to see whether sexual side effects get better.
+					Engaging in sexual activity before taking an antidepressant if your antidepressant requires a once-a-day dose.
+					Adjusting the dose of your antidepressant to reduce the risk of sexual side effects. But always talk with your doctor before changing your dose.
+					Switching to another antidepressant that may be less likely to cause sexual side effects.
+					Adding a second antidepressant or another type of medication to counter sexual side effects. For example, the addition of the antidepressant bupropion or the anti-anxiety medication buspirone may ease sexual side effects caused by an antidepressant.
+					Adding a medication to improve sexual function, such as sildenafil (Viagra, Revatio), tadalafil (Adcirca, Cialis) or vardenafil (Levitra, Staxyn). Although these medications are used to treat sexual problems in men, initial research suggests sildenafil may also improve sexual problems caused by
+					antidepressants in some women.
+				</ANSWER>
+				<AnswerURL> http://www.mayoclinic.org/diseases-conditions/depression/expert-answers/antidepressants/faq-20058104 </AnswerURL>
+				<COMMENT> answers about mitigating the ED effects of effexor are relevant, e.g., http://www.pharmatherapist.com/articles/8-tips-for-managing-antidepressant-induced-sexual-dysfunction  </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ101">
+		<Original-Question qfile="13645.txt">
+			<SUBJECT>NSAIDS as a potential cause of ED</SUBJECT>
+			<MESSAGE>How long has this non prescription drug been implicated in erectile dysfunction?</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>How long has Non-aspirin NSAID been implicated in erectile dysfunction?</NIST-PARAPHRASE>
+		<NLM-Summary>Could NSAIDS cause erectile  dysfunction?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">NSAIDS</FOCUS>
+			<TYPE tid="T1" hasFocus="F1" hasKeyword="K1">SIDE_EFFECT</TYPE>
+			<KEYWORD kid="K1" kcategory="Problem">erectile dysfunction</KEYWORD>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ101A1">
+				<ANSWER> Non-aspirin NSAID use was associated with an increased risk of mild/moderate ED (HR 1.16; P = 0.02) and aspirin use was associated with an increased risk of severe ED (HR 1.16; P = 0.03, respectively). The associations of NSAID use with ED risk were attenuated after controlling for
+					indications for NSAID use.
+
+					CONCLUSIONS:
+					The modest associations of NSAID use with ED risk in the present cohort were probably attributable to confounding indications for NSAID use. NSAID use was not associated with ED risk.
+				</ANSWER>
+				<AnswerURL> https://www.ncbi.nlm.nih.gov/pubmed/26305866 </AnswerURL>
+				<COMMENT> PubMed paper title: Non-steroidal Anti-inflammatory Drug use Not Associated with Erectile Dysfunction Risk: Results from the Prostate Cancer Prevention Trial. News articles that discuss the limitations of the studies confirming ED association with NSAIDS, such as
+					http://abcnews.go.com/Health/Wellness/nsaid-tied-erectile-dysfunction/story?id=13074655 are relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ102">
+		<Original-Question qfile="1-133674765.xml.txt">
+			<SUBJECT>General health</SUBJECT>
+			<MESSAGE>i want to know more about aeortic stenosis</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>What is aortic stenosis, and is there anything I should do about it?</NIST-PARAPHRASE>
+		<NLM-Summary>What is aortic stenosis?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">aeortic stenosis</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">INFORMATION</TYPE>
+			<TYPE tid="T2" hasFocus="F1">TREATMENT</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ102A1">
+				<ANSWER> The aorta is the main artery that carries blood out of the heart to the rest of the body. Blood flows out of the heart and into the aorta through the aortic valve. In aortic stenosis, the aortic valve does not open fully. This decreases blood flow from the heart. </ANSWER>
+				<AnswerURL> https://medlineplus.gov/ency/article/000178.htm </AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ103">
+		<Original-Question qfile="11804.txt">
+			<SUBJECT></SUBJECT>
+			<MESSAGE>What can cause white cells ti uprate</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE></NIST-PARAPHRASE>
+		<NLM-Summary>What causes increase in white blood cell count?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="Problem">white cells uprate</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">CAUSE</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ103A1">
+				<ANSWER> A high white blood cell count usually indicates:
+
+					An increased production of white blood cells to fight an infection
+					A reaction to a drug that increases white blood cell production
+					A disease of bone marrow, causing abnormally high production of white blood cells
+					An immune system disorder that increases white blood cell production
+					Specific causes of a high white blood cell count include:
+
+					Acute lymphocytic leukemia
+					Acute myelogenous leukemia (AML)
+					Allergy, especially severe allergic reactions
+					Chronic lymphocytic leukemia
+					Chronic myelogenous leukemia
+					Drugs, such as corticosteroids and epinephrine
+					Infections, bacterial or viral
+					Myelofibrosis
+					Polycythemia vera
+					Rheumatoid arthritis
+					Smoking
+					Stress, such as severe emotional or physical stress
+					Tuberculosis
+					Whooping cough
+				</ANSWER>
+				<AnswerURL>http://www.mayoclinic.org/symptoms/high-white-blood-cell-count/basics/causes/sym-20050611</AnswerURL>
+				<COMMENT> any pages about the causes of Leukocytosis (high white blood cell count or high WBC) are relevant </COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+	<NLM-QUESTION qid="TQ104">
+		<Original-Question qfile="1-136260837.xml.txt">
+			<SUBJECT>Glimepiride Storage &amp; Alloweable Excursion Data</SUBJECT>
+			<MESSAGE>Can you please provide Glimepiride storage &amp; allowable temperature excursion data, specifically for pharmacy and warehouse storage
+			</MESSAGE>
+		</Original-Question>
+		<NIST-PARAPHRASE>Define temperature exposure and expiration data with regard to pharmacy and warehouse storage for Glimepiride.</NIST-PARAPHRASE>
+		<NLM-Summary>What are Glimepiride Storage requirements for pharmacy and warehouse?</NLM-Summary>
+		<ANNOTATIONS>
+			<FOCUS fid="F1" fcategory="DrugSupplement">Glimepiride</FOCUS>
+			<TYPE tid="T1" hasFocus="F1">STORAGE_DISPOSAL</TYPE>
+		</ANNOTATIONS>
+		<ReferenceAnswers>
+			<ReferenceAnswer aid="TQ104A1">
+				<ANSWER> 1. Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Throw away any medication that is outdated or no longer needed. Talk to your pharmacist about the
+					proper disposal of your medication.
+
+					2. Store at 20 degrees-25 degrees C (68 degrees -77 degrees F) [see USP Controlled Room Temperature].
+
+					Dispense in well-closed containers with safety closures.
+				</ANSWER>
+				<AnswerURL> 1. https://medlineplus.gov/druginfo/meds/a696016.html#storage-conditions
+					2. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07ad4366-4b21-f633-49f3-c2b35f88168d
+				</AnswerURL>
+				<COMMENT>
+				</COMMENT>
+			</ReferenceAnswer>
+		</ReferenceAnswers>
+	</NLM-QUESTION>
+
+</LiveQA2017-Medical-Test-Set-Full>
