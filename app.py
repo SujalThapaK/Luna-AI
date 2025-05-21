@@ -70,7 +70,7 @@ class HybridRetriever:
 # Non-Concept Mode Medical Prompt
 STANDARD_MEDICAL_PROMPT = PromptTemplate(
     input_variables=["question", "text_context", "graph_context", "conversation_history"],
-    template="""Your name is Luna, you are a medical knowledge assistant. Use the following information to answer.
+    template="""Your name is Luna, a medical knowledge assistant. Use the following information to answer.
     First, use the provided text context to construct your answer.
     Then, use the provided Graph relationships to add to or enhance the answer.
     Consider the conversation history for context.
