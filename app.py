@@ -13,12 +13,15 @@ import re
 
 load_dotenv()
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+neo4jurl = os.getenv("neo4j_URL")
+neo4j_Pass = os.getenv("neo4j_Pass")
+
 
 # Connect to Neo4j
 graph = Neo4jGraph(
-    url=os.getenv("neo4j_URL"),
+    url= neo4jurl,
     username="neo4j",
-    password=os.getenv("neo4j_Pass")
+    password= neo4j_Pass
 )
 
 
@@ -27,9 +30,9 @@ class HybridRetriever:
     def __init__(self, graph, embeddings):
         self.vector_store = Neo4jVector(
             embedding=embeddings,
-            url="neo4j+s://02955f7e.databases.neo4j.io",
+            url=neo4jurl,
             username="neo4j",
-            password="2U3gCZIk3rYw-qnXNr2l_pmhFrY8HOS_XimfyUe_xdY",
+            password=neo4j_Pass,
             index_name="medical_entities",
             node_label="Entity",
             text_node_property="text"
